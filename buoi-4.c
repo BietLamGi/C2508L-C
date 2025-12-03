@@ -54,9 +54,9 @@ int main() {
 //		printf("Nghiem x la: %.2f", x);
 //	}
     
-//  if( a == 0 && b != 0) {
+//  if(a == 0 && b != 0) {
 //      printf("Phuong trinh vo nghiem");
-//  } else if( a == 0 && b == 0) {
+//  } else if(a == 0 && b == 0) {
 //    	printf("Phuong trinh vo so nghiem");
 //	} else {
 //		x = - b / a;
@@ -84,3 +84,4 @@ int main() {
 	
 	return 0;
 }
+
